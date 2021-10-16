@@ -1,4 +1,4 @@
-<b> Note: </br> If you want to learn more information about this study, you can read report or study explanation documents.
+<b> Note: </b> If you want to learn more information about this study, you can read report or study explanation documents.
 <br/>
 
 In this study, face landmark, face triangulation and face morphing operations are implemented. The outputs of the parts are given below:
