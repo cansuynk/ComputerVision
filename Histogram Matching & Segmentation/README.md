@@ -1,3 +1,6 @@
+Note: If you want to learn more information about this study, you can read report or study explanation documents.
+<br/>
+
 <h4>Part 1</h4>
 <img src="../readme_images/Capture1.PNG" alt="ss"/>
 
@@ -7,9 +10,6 @@
 <h4>Part 3</h4>
 <img src="../readme_images/Capture3.PNG" alt="ss"/> 
 
-<br/>
-If you want to learn more information about this study, you can read report or study explanation documents.
-<br/>
 <br/>
 You can find the videos (outputs of the study) in the link below:
 
