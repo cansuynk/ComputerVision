@@ -43,7 +43,6 @@ Line Detection Masks/Filters<br/>
 Point Detection<br/>
 The Canny edge detector<br/>
 
-<br/>
 ## Topics of Fourth Study
 (Lucas-Kanade Algorithm & Find the Celebrities who are most Similar to You)<br/>
 K means Clustering<br/>
