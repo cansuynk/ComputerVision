@@ -1,6 +1,8 @@
 <h4>Part 1</h4>
 <img src="../readme_images/Capture1.PNG" alt="ss"/>
 
+video src='https://drive.google.com/file/d/1TitG9BL88FFTYk3-qynZfYI_RZ93oMdC/view?usp=sharing' width=180/>
+
 <h4>Part 2</h4>
 <img src="../readme_images/Capture2.PNG" alt="ss"/>
 
