@@ -37,12 +37,12 @@ Show delaunay triangles for the found landmarks
 Do a triangle animation in 20 steps with changing color
 
 <p align="center">
-![Text](https://media.giphy.com/media/BiwjbCTq6Jai5W8OuI/giphy.gif)
+<img src="https://media.giphy.com/media/BiwjbCTq6Jai5W8OuI/giphy.gif"/>
 </p>
 
 <h4>Part 5</h4>
 Face morphing implementation using the techniques from previous parts
 
 <p align="center">
-![Text](https://media.giphy.com/media/rRGstHOeF1tYdcWYqU/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/rRGstHOeF1tYdcWYqU/giphy.gif"/>
 </p>
