@@ -1,7 +1,7 @@
 <b>Note:</b> If you want to learn more information about this study, you can read report or study explanation documents.
 
 <h4>Part1</h4>
-Hough Circle Detection - Problem Construction
+Hough Circle Detection - Problem Construction <br/>
 The algorithm pseudo-code to detect circles is given below:
 
 <p align="center">
