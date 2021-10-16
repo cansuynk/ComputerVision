@@ -21,39 +21,39 @@ Look Up Table for Histogram Matching
 Image Enhancement  
 
 ## Topics of Second Study
-(Landmark, Triangulation & Face Morphing)
-Geometric Image transforms
-Image Warping
-Coordinate Mapping
-Forward & Backward Mapping
-Translation, Scaling & Rotation
-Image morphing
-Image Rectification
+(Landmark, Triangulation & Face Morphing)<br/>
+Geometric Image transforms<br/><br/>
+Image Warping<br/>
+Coordinate Mapping<br/>
+Forward & Backward Mapping<br/>
+Translation, Scaling & Rotation<br/>
+Image morphing<br/>
+Image Rectification<br/>
 
 ## Topics of Third Study
-(Sobel Filter, Edge Detector and Corner Detector)
-Smoothing Spatial & Sharpening Spatial Filters
-Morphological Image Filters
-Gaussian Smoothing
-Mean-Median Filter
-Image Filtering and Enhancement
-Edge Detection
-Roberts Operator, Sobel Operator
-Line Detection Masks/Filters
-Point Detection
-The Canny edge detector
+(Sobel Filter, Edge Detector and Corner Detector)<br/>
+Smoothing Spatial & Sharpening Spatial Filters<br/>
+Morphological Image Filters<br/>
+Gaussian Smoothing<br/>
+Mean-Median Filter<br/>
+Image Filtering and Enhancement<br/>
+Edge Detection<br/>
+Roberts Operator, Sobel Operator<br/>
+Line Detection Masks/Filters<br/>
+Point Detection<br/>
+The Canny edge detector<br/>
 
-
+<br/>
 ## Topics of Fourth Study
-(Lucas-Kanade Algorithm & Find the Celebrities who are most Similar to You)
-K means Clustering
-Segmentation as a Clustering Problem
-Motion Estimation
+(Lucas-Kanade Algorithm & Find the Celebrities who are most Similar to You)<br/>
+K means Clustering<br/>
+Segmentation as a Clustering Problem<br/>
+Motion Estimation<br/>
 
 
 ## Topics of Fifth Study
-(Hough Circle Detection, 3D Image Segmentation)
-Region Growing
-Pixel Connectivity
-Recall Segmentation based on Thresholding
+(Hough Circle Detection, 3D Image Segmentation)<br/>
+Region Growing<br/>
+Pixel Connectivity<br/>
+Recall Segmentation based on Thresholding<br/>
 
