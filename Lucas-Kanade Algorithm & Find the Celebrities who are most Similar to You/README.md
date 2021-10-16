@@ -6,7 +6,7 @@
 Lucas-Kanade algorithm is implemented locally to find the OF vector of the hand (to track the right hand of the creature from the video).
 
 <p align="center">
-<img src="./Outputs/Part1.PNG" alt="ss" width="250"/>
+<img src="./Outputs/Part1.PNG" alt="ss" width="500"/>
 </p>
 
 You can find the results in Outputs folder.
@@ -16,6 +16,6 @@ You can find the results in Outputs folder.
 10-nearest neighbors classification inside the projected space is used to find the celebrities who are most similar to you.
 
 <p align="center">
-<img src="./Outputs/Part2.PNG" alt="ss" width="250"/>
+<img src="./Outputs/Part2.PNG" alt="ss" width="500"/>
 </p>
 
