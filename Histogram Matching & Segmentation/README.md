@@ -1,11 +1,11 @@
 <h4>Part 1<h4/>
-<img src="../readme_images/Capture1.png" alt="ss"/>
+<img src="../readme_images/Capture1.PNG" alt="ss"/>
 
 <h4>Part 2<h4/>
-<img src="../readme_images/Capture2.png" alt="ss"/>
+<img src="../readme_images/Capture2.PNG" alt="ss"/>
 
 <h4>Part 3<h4/>
-<img src="../readme_images/Capture3.png" alt="ss"/> 
+<img src="../readme_images/Capture3.PNG" alt="ss"/> 
 
 <br/>
 If you want to learn more information about this study, you can read report or study explanation documents.
